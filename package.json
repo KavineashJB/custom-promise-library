@@ -1,0 +1,30 @@
+{
+  "name": "custom-promise-library",
+  "version": "1.0.1",
+  "description": "A custom Promise library implemented using vanilla JavaScript classes.",
+  "license": "ISC",
+  "author": "Kavineash_JB",
+  "type": "commonjs",
+  "main": "MyPromise.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "keywords": [
+    "promise",
+    "custom-promise",
+    "javascript",
+    "async",
+    "vanilla-js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KavineashJB/custom-promise-library.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KavineashJB/custom-promise-library/issues"
+  },
+  "homepage": "https://github.com/KavineashJB/custom-promise-library#readme"
+}
