@@ -1,5 +1,5 @@
 {
-  "name": "custom-promise-library",
+  "name": "custom-promise-package",
   "version": "1.0.1",
   "description": "A custom Promise library implemented using vanilla JavaScript classes.",
   "license": "ISC",
