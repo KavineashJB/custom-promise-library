@@ -2,6 +2,8 @@
 
 > A custom Promise library implemented in vanilla JavaScript, mimicking the native Promise API with additional learning-friendly structure.
 
+---
+
 ![npm](https://img.shields.io/npm/v/custom-promise-package)
 ![license](https://img.shields.io/npm/l/custom-promise-package)
 ![issues](https://img.shields.io/github/issues/KavineashJB/custom-promise-library)
